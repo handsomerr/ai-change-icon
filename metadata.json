@@ -1,0 +1,5 @@
+{
+  "name": "PatternSwap AI",
+  "description": "An intelligent image editing tool that allows users to replace specific patterns on objects (like clothing) with new textures or designs using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
